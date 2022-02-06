@@ -1,0 +1,9 @@
+name: Purge
+version: 0.1
+main: sixpack.xCheat.xCheat
+author: sixpack
+commands: 
+    alerts: 
+    lookup:   
+    menu:        
+      aliases: [purge, anticheat]      
